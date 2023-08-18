@@ -1,0 +1,1 @@
+export prj=/home/sefo/projects
